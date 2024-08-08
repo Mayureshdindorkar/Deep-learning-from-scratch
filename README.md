@@ -1,6 +1,6 @@
 # Deep-learning-from-scratch  
-## Name: Mayuresh Dindorkar  
-## Roll No.: CS23MTECH14007
+**Name: Mayuresh Dindorkar**  
+**Roll No.: CS23MTECH14007**
 
 ---
 
